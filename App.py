@@ -212,7 +212,7 @@ async def cancel(update: Update, context: CallbackContext) -> int:
 
 
 def main():
-    application = Application.builder().token("7455223034:AAEWVUzYpPzddfRQK7See-CnH3rlIL_4Iiw").build()
+    application = Application.builder().token("Your_Telegram_token").build()
 
     conv_handler = ConversationHandler(
         entry_points=[CommandHandler('start', start)],
