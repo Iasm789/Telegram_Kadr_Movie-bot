@@ -1,0 +1,10 @@
+streamlit
+numpy~=1.26.4
+pandas
+pillow
+pandas
+requests~=2.32.2
+beautifulsoup4~=4.12.3
+urllib3
+python-telegram-bot
+telebot
