@@ -1,6 +1,6 @@
 # Telegram_Kadr_Movie-bot
  The telegram bot “Kadr” will help you decide on the choice of a movie based on your preferences and tastes. Answer the questions, save your time and start watching the movie right now!
-[Ссылка на бота](https://t.me/kadr_movie_bot)
+[Ссылка на бота](https://t.me/kadr_movie_bot) /n
 [Ссылка на сайт](https://kadrmovie.streamlit.app/), [на Github](https://github.com/Iasm789/Kadr_Movie_Recommender)
 
 
